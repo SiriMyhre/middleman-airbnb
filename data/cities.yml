@@ -1,0 +1,9 @@
+lisbon:
+  address: 'cais do sodre'
+  name: 'Le Wagon Lisbon'
+paris:
+  address: 'Eiffel tower'
+  name: 'Le wagon Paris'
+berlin:
+  address: 'something'
+  name: 'Le wagon Berlin'
